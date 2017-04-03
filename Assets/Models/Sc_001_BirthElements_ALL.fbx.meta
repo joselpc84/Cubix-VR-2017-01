@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 819b26c52a229a4489dccf26dc453138
+timeCreated: 1484251665
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BirthElements_REF:ctrl01
+    100002: BirthElements_REF:ctrl01 1
+    100004: BirthElements_REF:ctrl02
+    100006: BirthElements_REF:ctrl04
+    100008: BirthElements_REF:ctrl05
+    100010: BirthElements_REF:ctrl06
+    100012: BirthElements_REF:ctrl07
+    100014: BirthElements_REF:ctrl08
+    100016: BirthElements_REF:ctrl09
+    100018: BirthElements_REF:ctrlMtr01
+    100020: BirthElements_REF:ctrlMtr02
+    100022: BirthElements_REF:ctrlMtr03
+    100024: BirthElements_REF:ctrlMtr04
+    100026: BirthElements_REF:ctrlMtr05
+    100028: BirthElements_REF:ctrlMtr06
+    100030: BirthElements_REF:ctrlMtr07
+    100032: BirthElements_REF:ctrlMtr08
+    100034: BirthElements_REF:ctrlMtr09
+    100036: BirthElements_REF:curve1
+    100038: BirthElements_REF:curve1BaseWire1
+    100040: BirthElements_REF:GEO
+    100042: BirthElements_REF:offset01
+    100044: BirthElements_REF:offset02
+    100046: BirthElements_REF:offset03
+    100048: BirthElements_REF:offset04
+    100050: BirthElements_REF:offset05
+    100052: BirthElements_REF:offset06
+    100054: BirthElements_REF:offset07
+    100056: BirthElements_REF:offset08
+    100058: BirthElements_REF:offset09
+    100060: BirthElements_REF:Placenta_CTRL
+    100062: BirthElements_REF:Placenta_GEO
+    100064: BirthElements_REF:PlacentaLattice
+    100066: BirthElements_REF:PlacentaVeins_GEO
+    100068: BirthElements_REF:Umbilical_CTRL
+    100070: BirthElements_REF:Wire
+    100072: //RootNode
+    400000: BirthElements_REF:ctrl01
+    400002: BirthElements_REF:ctrl01 1
+    400004: BirthElements_REF:ctrl02
+    400006: BirthElements_REF:ctrl04
+    400008: BirthElements_REF:ctrl05
+    400010: BirthElements_REF:ctrl06
+    400012: BirthElements_REF:ctrl07
+    400014: BirthElements_REF:ctrl08
+    400016: BirthElements_REF:ctrl09
+    400018: BirthElements_REF:ctrlMtr01
+    400020: BirthElements_REF:ctrlMtr02
+    400022: BirthElements_REF:ctrlMtr03
+    400024: BirthElements_REF:ctrlMtr04
+    400026: BirthElements_REF:ctrlMtr05
+    400028: BirthElements_REF:ctrlMtr06
+    400030: BirthElements_REF:ctrlMtr07
+    400032: BirthElements_REF:ctrlMtr08
+    400034: BirthElements_REF:ctrlMtr09
+    400036: BirthElements_REF:curve1
+    400038: BirthElements_REF:curve1BaseWire1
+    400040: BirthElements_REF:GEO
+    400042: BirthElements_REF:offset01
+    400044: BirthElements_REF:offset02
+    400046: BirthElements_REF:offset03
+    400048: BirthElements_REF:offset04
+    400050: BirthElements_REF:offset05
+    400052: BirthElements_REF:offset06
+    400054: BirthElements_REF:offset07
+    400056: BirthElements_REF:offset08
+    400058: BirthElements_REF:offset09
+    400060: BirthElements_REF:Placenta_CTRL
+    400062: BirthElements_REF:Placenta_GEO
+    400064: BirthElements_REF:PlacentaLattice
+    400066: BirthElements_REF:PlacentaVeins_GEO
+    400068: BirthElements_REF:Umbilical_CTRL
+    400070: BirthElements_REF:Wire
+    400072: //RootNode
+    2300000: BirthElements_REF:Placenta_GEO
+    2300002: BirthElements_REF:PlacentaVeins_GEO
+    3300000: BirthElements_REF:Placenta_GEO
+    3300002: BirthElements_REF:PlacentaVeins_GEO
+    4300000: BirthElements_REF:Placenta_GEO
+    4300002: BirthElements_REF:PlacentaVeins_GEO
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

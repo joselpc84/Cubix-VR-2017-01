@@ -1,0 +1,5356 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PlacentaAnimOVRR
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.0150426915, y: 0.2753114, z: 0.9598058, w: 0.05244266}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: {x: 0.0150426915, y: 0.2753114, z: 0.9598058, w: 0.05244266}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:GEO/BirthElements_REF:Placenta_GEO
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr01/BirthElements_REF:ctrl01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr02/BirthElements_REF:ctrl02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr03/BirthElements_REF:ctrl01
+      1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr04/BirthElements_REF:ctrl04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr05/BirthElements_REF:ctrl05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr06/BirthElements_REF:ctrl06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr07/BirthElements_REF:ctrl07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr08/BirthElements_REF:ctrl08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr09/BirthElements_REF:ctrl09
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.32478994, y: 87.69017, z: 0.026947424}
+        inSlope: {x: -2.7755576e-15, y: -3.5462816, z: 5.2041704e-16}
+        outSlope: {x: -2.7755576e-15, y: -3.5462816, z: 5.2041704e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.0833333
+        value: {x: -0.32478994, y: 80.30082, z: 0.026947424}
+        inSlope: {x: -1.1895225e-15, y: -3.5467458, z: 2.2303547e-16}
+        outSlope: {x: -2.7755523e-15, y: -3.546275, z: 5.2041604e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.125
+        value: {x: -0.32478994, y: 73.05926, z: 0.026947424}
+        inSlope: {x: -1.1895293e-15, y: -3.546766, z: 2.2303675e-16}
+        outSlope: {x: -2.7755364e-15, y: -3.5457838, z: 5.2041307e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6.166667
+        value: {x: -0.32478994, y: 65.81769, z: 0.026947424}
+        inSlope: {x: -1.1895157e-15, y: -3.5462546, z: 2.230342e-16}
+        outSlope: {x: -2.7755681e-15, y: -3.5462952, z: 5.2041905e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 8.25
+        value: {x: -0.32478994, y: 58.428333, z: 0.026947424}
+        inSlope: {x: -1.1895157e-15, y: -3.5462546, z: 2.230342e-16}
+        outSlope: {x: -2.7756e-15, y: -3.546571, z: 5.20425e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.333333
+        value: {x: -0.32478994, y: 51.038982, z: 0.026947424}
+        inSlope: {x: -1.1895157e-15, y: -3.5462546, z: 2.230342e-16}
+        outSlope: {x: -2.7755364e-15, y: -3.54649, z: 5.2041307e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12.416666
+        value: {x: -0.32478994, y: 43.649635, z: 0.026947424}
+        inSlope: {x: -1.1895429e-15, y: -3.5468066, z: 2.2303929e-16}
+        outSlope: {x: -2.7755364e-15, y: -3.5462546, z: 5.2041307e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 14.458333
+        value: {x: -0.32478994, y: 36.40807, z: 0.026947424}
+        inSlope: {x: -1.1895157e-15, y: -3.54649, z: 2.230342e-16}
+        outSlope: {x: -2.7755364e-15, y: -3.5462546, z: 5.2041307e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 16.5
+        value: {x: -0.32478994, y: 29.166506, z: 0.026947424}
+        inSlope: {x: -1.1895429e-15, y: -3.5470617, z: 2.2303929e-16}
+        outSlope: {x: -2.7754729e-15, y: -3.5470278, z: 5.2040116e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 18.541668
+        value: {x: -0.32478994, y: 21.924936, z: 0.026947424}
+        inSlope: {x: -1.1894885e-15, y: -3.546982, z: 2.230291e-16}
+        outSlope: {x: -2.7756e-15, y: -3.5480425, z: 5.20425e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 20.625
+        value: {x: -0.32478994, y: 14.535589, z: 0.026947424}
+        inSlope: {x: -1.1895429e-15, y: -3.5468163, z: 2.2303929e-16}
+        outSlope: {x: -2.7754729e-15, y: -3.5470867, z: 5.2040116e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 20.958334
+        value: {x: -0.32478994, y: 13.353291, z: 0.026947424}
+        inSlope: {x: -1.1895429e-15, y: -3.5477157, z: 2.2303929e-16}
+        outSlope: {x: -0.0000042563647, y: -3.547175, z: 5.20425e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.083334
+        value: {x: -0.31215495, y: 12.904672, z: 0.026947424}
+        inSlope: {x: 0.28813478, y: -3.6642377, z: 2.2303929e-16}
+        outSlope: {x: 0.28810954, y: -3.6636689, z: 5.20425e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.583334
+        value: {x: -0.0028547312, y: 11.072076, z: 0.026947424}
+        inSlope: {x: 0.5065521, y: -3.3801334, z: 2.2303929e-16}
+        outSlope: {x: 0.506456, y: -3.3795774, z: 5.20425e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.708334
+        value: {x: 0.040356085, y: 10.669381, z: 0.026947424}
+        inSlope: {x: 0.15167569, y: -3.0429037, z: 2.2303929e-16}
+        outSlope: {x: 0.15162762, y: -3.0423565, z: -0.000000851058}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.791668
+        value: {x: 0.04363461, y: 10.425422, z: 0.028205432}
+        inSlope: {x: -0.0006174032, y: -2.848977, z: 0.058758214}
+        outSlope: {x: -0.00061721966, y: -2.84977, z: 0.058788005}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.208334
+        value: {x: 0.035087004, y: 9.339705, z: 0.13825576}
+        inSlope: {x: -0.056159403, y: -2.412961, z: 0.38683847}
+        outSlope: {x: -0.056142792, y: -2.4127855, z: 0.38677618}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: {x: 0.032535624, y: 9.239792, z: 0.1545456}
+        inSlope: {x: -0.21101078, y: -2.3849924, z: 0.39275205}
+        outSlope: {x: -0.2110193, y: -2.384809, z: 0.3927626}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.291668
+        value: {x: 0.017502464, y: 9.140959, z: 0.17098586}
+        inSlope: {x: -0.62284696, y: -2.3602867, z: 0.3939223}
+        outSlope: {x: -0.6231488, y: -2.3612504, z: 0.39406046}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.333334
+        value: {x: -0.019368734, y: 9.043094, z: 0.18737218}
+        inSlope: {x: -1.0991172, y: -2.3392339, z: 0.39031383}
+        outSlope: {x: -1.099, y: -2.3389418, z: 0.39024884}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.5
+        value: {x: -0.30505204, y: 8.658824, z: 0.24833022}
+        inSlope: {x: -2.0406294, y: -2.2812474, z: 0.32668385}
+        outSlope: {x: -2.040686, y: -2.2814536, z: 0.32669577}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.75
+        value: {x: -0.70712525, y: 8.090568, z: 0.3036935}
+        inSlope: {x: -0.5664595, y: -2.2831593, z: 0.08538508}
+        outSlope: {x: -0.5664708, y: -2.2834547, z: 0.08538904}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.875
+        value: {x: -0.7187562, y: 7.806054, z: 0.30478486}
+        inSlope: {x: 0.01983039, y: -2.246628, z: -0.0593285}
+        outSlope: {x: 0.019825054, y: -2.2466419, z: -0.059336033}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.958334
+        value: {x: -0.60922563, y: 5.8006525, z: -0.1543238}
+        inSlope: {x: 0.13920239, y: -1.3728082, z: -0.59831566}
+        outSlope: {x: 0.13917807, y: -1.3725609, z: -0.59821844}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: -0.5104684, y: 5.0122247, z: -0.5811444}
+        inSlope: {x: 0.0027870275, y: -0.016440295, z: -0.011780853}
+        outSlope: {x: 0.0027979868, y: -0.01644759, z: -0.011786096}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 26.708334
+        value: {x: -0.49310628, y: 4.9470215, z: -0.63082963}
+        inSlope: {x: 0.011363815, y: -0.04258193, z: -0.03250941}
+        outSlope: {x: 0.011361566, y: -0.04262607, z: -0.032504845}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 28.75
+        value: {x: -0.4888131, y: 4.967789, z: -0.6340071}
+        inSlope: {x: -1.1895429e-15, y: 0.046483334, z: 0.011474102}
+        outSlope: {x: -2.7754729e-15, y: 0.0464714, z: 0.01147562}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: {x: -0.4888131, y: 5.030416, z: -0.61854476}
+        inSlope: {x: -1.1895429e-15, y: 0.051762953, z: 0.0127944155}
+        outSlope: {x: -1.1895429e-15, y: 0.051762953, z: 0.0127944155}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:GEO/BirthElements_REF:Placenta_GEO
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: {x: -0.70645404, y: 15.007526, z: -0.013185822}
+        inSlope: {x: -1.11018914e-14, y: -3.5467892, z: -8.673353e-17}
+        outSlope: {x: -1.11018914e-14, y: -3.5467892, z: -8.673353e-17}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.000002
+        value: {x: -0.70645404, y: 11.661858, z: -0.013185822}
+        inSlope: {x: -4.757954e-15, y: -2.593604, z: -3.7171515e-17}
+        outSlope: {x: -1.11024e-14, y: -2.593604, z: -8.67375e-17}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: {x: -0.70645404, y: 9.797261, z: -0.013185822}
+        inSlope: {x: -4.7581716e-15, y: -2.2929294, z: -3.7173215e-17}
+        outSlope: {x: -0.000002997819, y: -2.2929294, z: -0.0000057907964}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: {x: -0.5355494, y: 6.5654335, z: -0.9002114}
+        inSlope: {x: 0.039248038, y: -0.36719522, z: -0.20371078}
+        outSlope: {x: 0.039234594, y: -0.36719522, z: -0.20368741}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: -0.5313231, y: 6.5266476, z: -0.9221469}
+        inSlope: {x: -0.000002997819, y: 0.00001798839, z: -0.0000067412925}
+        outSlope: {x: -0.000002997819, y: 0.00001798839, z: -0.0000067412925}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: {x: 13.979743, y: -0.47024405, z: 2.9213583}
+        inSlope: {x: 2.664454e-13, y: -5.5509457e-15, z: 2.2203783e-14}
+        outSlope: {x: 2.664454e-13, y: -5.5509457e-15, z: 2.2203783e-14}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: {x: 13.979743, y: -0.47024405, z: 2.9213583}
+        inSlope: {x: 1.1419611e-13, y: -2.3790858e-15, z: 9.516343e-15}
+        outSlope: {x: -0.00015147874, y: 0.00000020100977, z: 0.000045502704}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.583334
+        value: {x: 13.281472, y: -0.13705094, z: 2.8633459}
+        inSlope: {x: -0.00012859715, y: 0.6325411, z: -0.17661825}
+        outSlope: {x: -0.00009156731, y: 0.63247585, z: -0.1766235}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: {x: 13.47658, y: 0.18847676, z: 2.7374008}
+        inSlope: {x: 2.1174974, y: 1.3876156, z: -0.47757432}
+        outSlope: {x: 2.1189077, y: 1.3883812, z: -0.4778569}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.208334
+        value: {x: 14.671743, y: 0.75160456, z: 2.5697412}
+        inSlope: {x: 3.819445, y: 2.0043302, z: -0.35953793}
+        outSlope: {x: 3.818663, y: 2.004012, z: -0.35950294}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.583334
+        value: {x: 16.332273, y: 1.599789, z: 2.454021}
+        inSlope: {x: 4.7468476, y: 1.8888803, z: -0.20848398}
+        outSlope: {x: 4.746506, y: 1.8885211, z: -0.20842922}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.166668
+        value: {x: 19.209131, y: 2.5471215, z: 2.3796499}
+        inSlope: {x: 3.471375, y: 1.6104395, z: -0.13117388}
+        outSlope: {x: 3.4726608, y: 1.6107228, z: -0.1311698}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: 21.345036, y: 3.790899, z: 2.272956}
+        inSlope: {x: 0.114693314, y: -0.000011459081, z: -0.035655968}
+        outSlope: {x: 0.11502249, y: -0.000006812012, z: -0.03563417}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.083334
+        value: {x: 21.515219, y: 3.7563522, z: 2.202449}
+        inSlope: {x: 0.05552975, y: -0.029508764, z: -0.03232351}
+        outSlope: {x: 0.05501061, y: -0.02951804, z: -0.032266445}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.125002
+        value: {x: 21.585659, y: 3.6881626, z: 2.145618}
+        inSlope: {x: 0.01736833, y: -0.03298713, z: -0.022245543}
+        outSlope: {x: 0.017419262, y: -0.03294504, z: -0.022277351}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: {x: 21.595903, y: 3.6629293, z: 2.129495}
+        inSlope: {x: 0.007830057, y: -0.026898926, z: -0.016220339}
+        outSlope: {x: 0.008117427, y: -0.026872901, z: -0.016274907}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr01/BirthElements_REF:ctrl01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: {x: 11.631848, y: -1.0069194, z: 2.0148504}
+        inSlope: {x: -0.00013623374, y: 0.000009120346, z: -0.000004365029}
+        outSlope: {x: -0.00013623374, y: 0.000009120346, z: -0.000004365029}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: {x: 11.492791, y: 0.3430833, z: 2.6021423}
+        inSlope: {x: -0.00013623996, y: 1.3570513, z: -0.000010087361}
+        outSlope: {x: -0.000062123654, y: 1.3571122, z: 0.000010628667}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: {x: 11.980453, y: 1.424505, z: 2.4752996}
+        inSlope: {x: 2.7004662, y: 1.2702289, z: -0.44663206}
+        outSlope: {x: 2.7018123, y: 1.270938, z: -0.4469217}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: {x: 20.60639, y: 3.852589, z: 1.3741847}
+        inSlope: {x: 1.5393909, y: 0.34988195, z: -0.17980398}
+        outSlope: {x: 1.5390218, y: 0.34978557, z: -0.17979288}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: 20.771257, y: 3.8898451, z: 1.3549682}
+        inSlope: {x: -0.00019620718, y: 0.000004355297, z: 0.0000025908787}
+        outSlope: {x: -0.00019620718, y: 0.000004355297, z: 0.0000025908787}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr02/BirthElements_REF:ctrl02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: {x: 8.754219, y: -0.099196926, z: 0.7324382}
+        inSlope: {x: 0.000014170763, y: 0.0000052089977, z: 0.00000094169513}
+        outSlope: {x: 0.000014170763, y: 0.0000052089977, z: 0.00000094169513}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.208334
+        value: {x: 8.735863, y: -0.016201193, z: 0.8268328}
+        inSlope: {x: -0.16522358, y: 0.74715096, z: 0.84975827}
+        outSlope: {x: -0.16513972, y: 0.7470476, z: 0.8496427}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.250002
+        value: {x: 8.728447, y: 0.017330175, z: 0.86496943}
+        inSlope: {x: -0.19009797, y: 0.86059076, z: 0.9787799}
+        outSlope: {x: -0.19045, y: 0.8605991, z: 0.97878027}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: {x: 8.506407, y: 1.0212455, z: 2.006765}
+        inSlope: {x: 0.000014171413, y: 0.000009253899, z: -0.000029712548}
+        outSlope: {x: 0.00008491982, y: -0.000014131123, z: -0.000027304863}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: {x: 11.082719, y: 0.25697976, z: 0.4017279}
+        inSlope: {x: 4.046136, y: 0.000007803071, z: 0.000019833356}
+        outSlope: {x: 4.0482287, y: 0.000024511355, z: 0.0000045288657}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: {x: 19.664015, y: 4.2975473, z: 0.7887744}
+        inSlope: {x: 1.3090364, y: 0.9280372, z: 0.08889414}
+        outSlope: {x: 1.3085493, y: 0.9277626, z: 0.08886392}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.416668
+        value: {x: 19.799824, y: 4.393542, z: 0.7935133}
+        inSlope: {x: -0.019786589, y: -0.02047924, z: -0.025253883}
+        outSlope: {x: -0.02008523, y: -0.020653084, z: -0.025278814}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.458334
+        value: {x: 19.678858, y: 4.2690005, z: 0.6402213}
+        inSlope: {x: -0.08707233, y: -0.08936336, z: -0.11003538}
+        outSlope: {x: -0.08656482, y: -0.08942139, z: -0.11002551}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.500002
+        value: {x: 19.493301, y: 4.0779576, z: 0.40507564}
+        inSlope: {x: -0.08287666, y: -0.08565749, z: -0.10546341}
+        outSlope: {x: -0.08329245, y: -0.08569574, z: -0.10546476}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: {x: 19.45743, y: 4.0410256, z: 0.35961768}
+        inSlope: {x: -0.07258934, y: -0.074854754, z: -0.09218437}
+        outSlope: {x: -0.072786555, y: -0.07490582, z: -0.092170954}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr03/BirthElements_REF:ctrl01
+      1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: {x: 8.864953, y: 0.43148562, z: 0.509703}
+        inSlope: {x: 0.0000010944535, y: 0.0000036439792, z: 0.0000095939995}
+        outSlope: {x: 0.0000010944535, y: 0.0000036439792, z: 0.0000095939995}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: {x: 7.868472, y: 1.130008, z: 2.8136752}
+        inSlope: {x: -0.00003977788, y: 1.06324, z: -0.000024533998}
+        outSlope: {x: 0.00006264647, y: 1.0638397, z: -0.0000013611773}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: {x: 16.072744, y: 4.6613293, z: 2.4002793}
+        inSlope: {x: 1.8840028, y: 0.6370526, z: -0.09493535}
+        outSlope: {x: 1.883703, y: 0.63702184, z: -0.09487406}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: 16.27563, y: 4.7295814, z: 2.3900564}
+        inSlope: {x: -0.00029866537, y: -0.00002671147, z: -0.0000013611773}
+        outSlope: {x: -0.00029866537, y: -0.00002671147, z: -0.0000013611773}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr04/BirthElements_REF:ctrl04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: {x: 6.092855, y: 0.08930892, z: 0.6956564}
+        inSlope: {x: -0.000013613049, y: -0.000011192665, z: 0.000023252553}
+        outSlope: {x: -0.000013613049, y: -0.000011192665, z: 0.000023252553}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: {x: 5.5877852, y: -0.958443, z: 2.3900702}
+        inSlope: {x: -0.40231767, y: -0.9142826, z: -0.0000049483247}
+        outSlope: {x: -0.4022911, y: -0.9143087, z: -0.0000027192725}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: {x: 5.372194, y: -1.5487865, z: 1.8903377}
+        inSlope: {x: -0.000026157282, y: -0.000016208996, z: -0.280424}
+        outSlope: {x: 0.00006264647, y: 0.000016610938, z: -0.2806184}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.791668
+        value: {x: 8.878063, y: -0.047728267, z: 1.6526698}
+        inSlope: {x: 5.5348606, y: 2.3698318, z: -0.19627242}
+        outSlope: {x: 5.5371113, y: 2.3707278, z: -0.19633004}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.875002
+        value: {x: 9.342355, y: 0.15106086, z: 1.6365871}
+        inSlope: {x: 5.597842, y: 2.396682, z: -0.18969826}
+        outSlope: {x: 5.597755, y: 2.3966944, z: -0.18968582}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: 13.779352, y: 2.050787, z: 1.4667189}
+        inSlope: {x: -0.0000032943046, y: 0.000010888804, z: -0.103486806}
+        outSlope: {x: -0.00005122567, y: -0.000014441562, z: -0.1035473}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.083334
+        value: {x: 13.07977, y: 2.0428813, z: 1.2531316}
+        inSlope: {x: -0.5977176, y: -0.0067403996, z: -0.10137834}
+        outSlope: {x: -0.5974537, y: -0.006778237, z: -0.101357624}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.125002
+        value: {x: 11.698918, y: 2.0272765, z: 1.0706037}
+        inSlope: {x: -0.6676867, y: -0.0075438777, z: -0.07308722}
+        outSlope: {x: -0.66730857, y: -0.0075382283, z: -0.073138386}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: {x: 11.187937, y: 2.021502, z: 1.0173072}
+        inSlope: {x: -0.5444952, y: -0.006149385, z: -0.054098267}
+        outSlope: {x: -0.54426324, y: -0.006173353, z: -0.05409538}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr05/BirthElements_REF:ctrl05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: {x: 3.8453085, y: 1.5150803, z: 2.6462414}
+        inSlope: {x: 6.661135e-14, y: 3.3305674e-14, z: 2.2203783e-14}
+        outSlope: {x: 6.661135e-14, y: 3.3305674e-14, z: 2.2203783e-14}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: {x: 3.8453085, y: 1.5150803, z: 2.6462414}
+        inSlope: {x: 2.854903e-14, y: 1.4274514e-14, z: 9.516343e-15}
+        outSlope: {x: -0.000040586372, y: -0.0000039685433, z: 0.00002833782}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: {x: 2.9781525, y: 2.832325, z: 2.3263438}
+        inSlope: {x: -0.000029143963, y: 0.0000016171697, z: -0.72905225}
+        outSlope: {x: 0.00005393224, y: -0.00002097947, z: -0.7295117}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: {x: 9.4383, y: 2.2685513, z: 0.28344896}
+        inSlope: {x: 1.4836094, y: -0.12948695, z: -0.3499291}
+        outSlope: {x: 1.4834533, y: -0.12942027, z: -0.3498551}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: 9.598055, y: 2.2546098, z: 0.24600896}
+        inSlope: {x: 0.000014149792, y: -0.00002097947, z: 0.000004074687}
+        outSlope: {x: 0.00002833858, y: -0.0000138967935, z: 0.00000051077865}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.083334
+        value: {x: 9.333456, y: 2.3778589, z: 0.33049494}
+        inSlope: {x: -0.22590433, y: 0.10526626, z: 0.072166614}
+        outSlope: {x: -0.2260008, y: 0.105251625, z: 0.07215653}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.125002
+        value: {x: 8.811184, y: 2.6211302, z: 0.49725536}
+        inSlope: {x: -0.2523138, y: 0.11758253, z: 0.0806062}
+        outSlope: {x: -0.25247684, y: 0.11763914, z: 0.080610335}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: {x: 8.617918, y: 2.7111523, z: 0.5589648}
+        inSlope: {x: -0.20588124, y: 0.09590757, z: 0.06575432}
+        outSlope: {x: -0.20585111, y: 0.09590863, z: 0.065741636}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr06/BirthElements_REF:ctrl06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: {x: 2.1214745, y: 0.32638305, z: 2.8581765}
+        inSlope: {x: 1.11018914e-14, y: 5.5509457e-15, z: 0.000030206224}
+        outSlope: {x: 1.11018914e-14, y: 5.5509457e-15, z: 0.000030206224}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: {x: 2.1214745, y: 0.32638305, z: 4.3319006}
+        inSlope: {x: 4.7581716e-15, y: 2.3790858e-15, z: -0.00005616936}
+        outSlope: {x: 0.000007102537, y: -0.0000030653034, z: -0.000013623477}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: {x: 0.76053077, y: 0.43590066, z: 4.1461787}
+        inSlope: {x: 0.0000066260154, y: 0.31534603, z: -0.53474855}
+        outSlope: {x: 0.000035813988, y: 0.3155424, z: -0.53508586}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.25
+        value: {x: 4.2145295, y: 2.7710996, z: 0.35176116}
+        inSlope: {x: 1.9162527, y: 1.8307638, z: -2.9639328}
+        outSlope: {x: 1.9162211, y: 1.8312119, z: -2.9646187}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.500002
+        value: {x: 4.6413636, y: 3.1856737, z: -0.3192672}
+        inSlope: {x: 1.473519, y: 1.4546695, z: -2.3540792}
+        outSlope: {x: 1.4736049, y: 1.4547173, z: -2.3540514}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: 5.0721545, y: 3.6190703, z: -1.0204453}
+        inSlope: {x: -0.00006158936, y: 0.000018792702, z: 0.0000139105105}
+        outSlope: {x: 0.00004741251, y: -0.00000354222, z: -0.0000032699284}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.083334
+        value: {x: 4.7035947, y: 3.5833607, z: -0.9277763}
+        inSlope: {x: -0.31481647, y: -0.03048507, z: 0.079163246}
+        outSlope: {x: -0.31474212, y: -0.030472774, z: 0.0791319}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.125002
+        value: {x: 3.9761224, y: 3.5128763, z: -0.7448639}
+        inSlope: {x: -0.35168958, y: -0.03408355, z: 0.088412024}
+        outSlope: {x: -0.3516095, y: -0.034035787, z: 0.0884062}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: {x: 3.7069228, y: 3.4867938, z: -0.67717755}
+        inSlope: {x: -0.28686494, y: -0.02778722, z: 0.07213109}
+        outSlope: {x: -0.2868273, y: -0.027812105, z: 0.07211791}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr07/BirthElements_REF:ctrl07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: {x: 0.434724, y: 1.8138049, z: 1.6713638}
+        inSlope: {x: 5.5509457e-15, y: -0, z: 0.000027345288}
+        outSlope: {x: 5.5509457e-15, y: -0, z: 0.000027345288}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: {x: 0.434724, y: 1.8138049, z: 3.1450877}
+        inSlope: {x: 2.3790858e-15, y: -0, z: 0.00003919953}
+        outSlope: {x: 5.5509457e-15, y: 0.0000020284979, z: -0.000004904406}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: {x: 0.434724, y: 2.338646, z: 3.100666}
+        inSlope: {x: 2.3790858e-15, y: 1.6052039, z: -0.26654947}
+        outSlope: {x: 5.5509457e-15, y: 1.6056272, z: -0.2666156}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: {x: 0.434724, y: 2.9304523, z: 0.092141494}
+        inSlope: {x: 2.3790858e-15, y: -0.000019088804, z: 0.000044176075}
+        outSlope: {x: 0.000012803232, y: -0.000014167254, z: 0.000001540862}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: {x: 1.5883706, y: 2.3152976, z: 0.21511891}
+        inSlope: {x: 0.26492423, y: -0.14129308, z: 0.028242044}
+        outSlope: {x: 0.26489973, y: -0.14126699, z: 0.028238555}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.416668
+        value: {x: 1.6170603, y: 2.2779922, z: 0.22371376}
+        inSlope: {x: 0.001300014, y: -0.11075378, z: 0.027839247}
+        outSlope: {x: 0.0012733106, y: -0.11079983, z: 0.027851934}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.416668
+        value: {x: 1.657841, y: 1.9807539, z: 0.29843295}
+        inSlope: {x: 0.056077328, y: 9.515908e-15, z: 1.1894885e-15}
+        outSlope: {x: 0.056090523, y: 2.22048e-14, z: 2.7756e-15}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.458334
+        value: {x: 1.9755478, y: 1.9807539, z: 0.29843295}
+        inSlope: {x: 0.20278515, y: 9.516343e-15, z: 1.1895429e-15}
+        outSlope: {x: 0.20274018, y: 2.2203783e-14, z: 2.7754729e-15}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: {x: 2.074688, y: 1.9807539, z: 0.29843295}
+        inSlope: {x: 0.19076173, y: 9.516343e-15, z: 1.1895429e-15}
+        outSlope: {x: 0.19071157, y: 2.2203783e-14, z: 2.7754729e-15}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr08/BirthElements_REF:ctrl08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: {x: 0.24591601, y: 0.4163108, z: 1.4274148}
+        inSlope: {x: 2.7754729e-15, y: 8.3264186e-15, z: 0.000027345288}
+        outSlope: {x: 2.7754729e-15, y: 8.3264186e-15, z: 0.000027345288}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: {x: 0.24591601, y: 0.4163108, z: 2.9011388}
+        inSlope: {x: 1.1895429e-15, y: 3.5686286e-15, z: 0.00003919953}
+        outSlope: {x: 2.7754729e-15, y: 0.000002778326, z: -0.000004904406}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: {x: 0.24591601, y: 0.9267036, z: 2.856717}
+        inSlope: {x: 1.1895429e-15, y: 1.5741137, z: -0.26654947}
+        outSlope: {x: 2.7754729e-15, y: 1.5744443, z: -0.2666156}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: {x: 0.24591601, y: 1.5329583, z: -0.15180765}
+        inSlope: {x: 1.1895429e-15, y: 0.1157387, z: 0.000041791853}
+        outSlope: {x: 0.0000062978042, y: 0.11582032, z: 0.0000014131067}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: {x: 1.3685482, y: 1.619719, z: -0.019104613}
+        inSlope: {x: 0.25782415, y: 0.001000147, z: 0.030476406}
+        outSlope: {x: 0.2577681, y: 0.0009975127, z: 0.03047104}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: 1.3963101, y: 1.6197879, z: -0.015822962}
+        inSlope: {x: 0.00000067785203, y: -0.0000061308588, z: 0.0000000272775}
+        outSlope: {x: -0.0000012252893, y: -0.00000885501, z: 0.0000007299331}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 26.041668
+        value: {x: 1.2682742, y: 1.5222241, z: 0.018269975}
+        inSlope: {x: -0.20483981, y: -0.15608996, z: 0.054542925}
+        outSlope: {x: -0.20489703, y: -0.15612784, z: 0.05456364}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.375
+        value: {x: 1.0710045, y: 1.3719038, z: 0.07079826}
+        inSlope: {x: -0.0000012252893, y: -0.00000885501, z: 0.0000010130595}
+        outSlope: {x: -0.000007765886, y: 0.000008037747, z: 1.0408023e-15}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.416668
+        value: {x: 1.3540294, y: 1.441782, z: 0.07079826}
+        inSlope: {x: 0.21375625, y: 0.052776452, z: 4.4607857e-16}
+        outSlope: {x: 0.21380597, y: 0.052784763, z: 1.04085e-15}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: {x: 1.4690747, y: 1.4701866, z: 0.07079826}
+        inSlope: {x: 0.20660046, y: 0.051034063, z: 4.4607857e-16}
+        outSlope: {x: 0.2065711, y: 0.051000804, z: 1.0408023e-15}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr09/BirthElements_REF:ctrl09
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 22.791668
+        value: {x: 0.99999964, y: 0.99999964, z: 0.99999964}
+        inSlope: {x: -0.4525206, y: -0.4525206, z: -0.4525206}
+        outSlope: {x: -0.4525206, y: -0.4525206, z: -0.4525206}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.791668
+        value: {x: 0.02331951, y: 0.02331951, z: 0.02331951}
+        inSlope: {x: -0.18091717, y: -0.18091717, z: -0.18091717}
+        outSlope: {x: -0.18091717, y: -0.18091717, z: -0.18091717}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.000002
+        value: {x: 0.0006794795, y: 0.0006794795, z: 0.0006794795}
+        inSlope: {x: -0.032311536, y: -0.032311536, z: -0.032311536}
+        outSlope: {x: -0.032311536, y: -0.032311536, z: -0.032311536}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: 1e-12, y: 1e-12, z: 1e-12}
+        inSlope: {x: -0.016307756, y: -0.016307756, z: -0.016307756}
+        outSlope: {x: -0.016307756, y: -0.016307756, z: -0.016307756}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:GEO/BirthElements_REF:Placenta_GEO
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 25.041668
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.083334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 22.791668
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.833334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr01/BirthElements_REF:ctrl01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 22.791668
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.833334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr02/BirthElements_REF:ctrl02
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 24
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: -0.34638017, y: 46.47289, z: -0.05974722}
+    m_Extent: {x: 0.7562229, y: 41.54044, z: 0.5840788}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 29.958334
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0150426915
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 0.0150426915
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: BirthElements_REF:GEO/BirthElements_REF:Placenta_GEO
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.2753114
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 0.2753114
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: BirthElements_REF:GEO/BirthElements_REF:Placenta_GEO
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9598058
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 0.9598058
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: BirthElements_REF:GEO/BirthElements_REF:Placenta_GEO
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.05244266
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 0.05244266
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: BirthElements_REF:GEO/BirthElements_REF:Placenta_GEO
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: BirthElements_REF:Placenta_CTRL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: BirthElements_REF:Placenta_CTRL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: BirthElements_REF:Placenta_CTRL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -6.123234e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -6.123234e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: BirthElements_REF:Placenta_CTRL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr01/BirthElements_REF:ctrl01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr01/BirthElements_REF:ctrl01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr01/BirthElements_REF:ctrl01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr01/BirthElements_REF:ctrl01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr02/BirthElements_REF:ctrl02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr02/BirthElements_REF:ctrl02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr02/BirthElements_REF:ctrl02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr02/BirthElements_REF:ctrl02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr03/BirthElements_REF:ctrl01
+      1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr03/BirthElements_REF:ctrl01
+      1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr03/BirthElements_REF:ctrl01
+      1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr03/BirthElements_REF:ctrl01
+      1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr04/BirthElements_REF:ctrl04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr04/BirthElements_REF:ctrl04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr04/BirthElements_REF:ctrl04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr04/BirthElements_REF:ctrl04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr05/BirthElements_REF:ctrl05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr05/BirthElements_REF:ctrl05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr05/BirthElements_REF:ctrl05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr05/BirthElements_REF:ctrl05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr06/BirthElements_REF:ctrl06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr06/BirthElements_REF:ctrl06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr06/BirthElements_REF:ctrl06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr06/BirthElements_REF:ctrl06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr07/BirthElements_REF:ctrl07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr07/BirthElements_REF:ctrl07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr07/BirthElements_REF:ctrl07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr07/BirthElements_REF:ctrl07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr08/BirthElements_REF:ctrl08
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr08/BirthElements_REF:ctrl08
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr08/BirthElements_REF:ctrl08
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr08/BirthElements_REF:ctrl08
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr09/BirthElements_REF:ctrl09
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr09/BirthElements_REF:ctrl09
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr09/BirthElements_REF:ctrl09
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr09/BirthElements_REF:ctrl09
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.32478994
+        inSlope: -2.7755576e-15
+        outSlope: -2.7755576e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.0833333
+        value: -0.32478994
+        inSlope: -1.1895225e-15
+        outSlope: -2.7755523e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.125
+        value: -0.32478994
+        inSlope: -1.1895293e-15
+        outSlope: -2.7755364e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6.166667
+        value: -0.32478994
+        inSlope: -1.1895157e-15
+        outSlope: -2.7755681e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 8.25
+        value: -0.32478994
+        inSlope: -1.1895157e-15
+        outSlope: -2.7756e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.333333
+        value: -0.32478994
+        inSlope: -1.1895157e-15
+        outSlope: -2.7755364e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12.416666
+        value: -0.32478994
+        inSlope: -1.1895429e-15
+        outSlope: -2.7755364e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 14.458333
+        value: -0.32478994
+        inSlope: -1.1895157e-15
+        outSlope: -2.7755364e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 16.5
+        value: -0.32478994
+        inSlope: -1.1895429e-15
+        outSlope: -2.7754729e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 18.541668
+        value: -0.32478994
+        inSlope: -1.1894885e-15
+        outSlope: -2.7756e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 20.625
+        value: -0.32478994
+        inSlope: -1.1895429e-15
+        outSlope: -2.7754729e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 20.958334
+        value: -0.32478994
+        inSlope: -1.1895429e-15
+        outSlope: -0.0000042563647
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.083334
+        value: -0.31215495
+        inSlope: 0.28813478
+        outSlope: 0.28810954
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.583334
+        value: -0.0028547312
+        inSlope: 0.5065521
+        outSlope: 0.506456
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.708334
+        value: 0.040356085
+        inSlope: 0.15167569
+        outSlope: 0.15162762
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.791668
+        value: 0.04363461
+        inSlope: -0.0006174032
+        outSlope: -0.00061721966
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.208334
+        value: 0.035087004
+        inSlope: -0.056159403
+        outSlope: -0.056142792
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: 0.032535624
+        inSlope: -0.21101078
+        outSlope: -0.2110193
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.291668
+        value: 0.017502464
+        inSlope: -0.62284696
+        outSlope: -0.6231488
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.333334
+        value: -0.019368734
+        inSlope: -1.0991172
+        outSlope: -1.099
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.5
+        value: -0.30505204
+        inSlope: -2.0406294
+        outSlope: -2.040686
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.75
+        value: -0.70712525
+        inSlope: -0.5664595
+        outSlope: -0.5664708
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.875
+        value: -0.7187562
+        inSlope: 0.01983039
+        outSlope: 0.019825054
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.958334
+        value: -0.60922563
+        inSlope: 0.13920239
+        outSlope: 0.13917807
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0.5104684
+        inSlope: 0.0027870275
+        outSlope: 0.0027979868
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 26.708334
+        value: -0.49310628
+        inSlope: 0.011363815
+        outSlope: 0.011361566
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 28.75
+        value: -0.4888131
+        inSlope: -1.1895429e-15
+        outSlope: -2.7754729e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: -0.4888131
+        inSlope: -1.1895429e-15
+        outSlope: -1.1895429e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: BirthElements_REF:GEO/BirthElements_REF:Placenta_GEO
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 87.69017
+        inSlope: -3.5462816
+        outSlope: -3.5462816
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.0833333
+        value: 80.30082
+        inSlope: -3.5467458
+        outSlope: -3.546275
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.125
+        value: 73.05926
+        inSlope: -3.546766
+        outSlope: -3.5457838
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6.166667
+        value: 65.81769
+        inSlope: -3.5462546
+        outSlope: -3.5462952
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 8.25
+        value: 58.428333
+        inSlope: -3.5462546
+        outSlope: -3.546571
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.333333
+        value: 51.038982
+        inSlope: -3.5462546
+        outSlope: -3.54649
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12.416666
+        value: 43.649635
+        inSlope: -3.5468066
+        outSlope: -3.5462546
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 14.458333
+        value: 36.40807
+        inSlope: -3.54649
+        outSlope: -3.5462546
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 16.5
+        value: 29.166506
+        inSlope: -3.5470617
+        outSlope: -3.5470278
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 18.541668
+        value: 21.924936
+        inSlope: -3.546982
+        outSlope: -3.5480425
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 20.625
+        value: 14.535589
+        inSlope: -3.5468163
+        outSlope: -3.5470867
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 20.958334
+        value: 13.353291
+        inSlope: -3.5477157
+        outSlope: -3.547175
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.083334
+        value: 12.904672
+        inSlope: -3.6642377
+        outSlope: -3.6636689
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.583334
+        value: 11.072076
+        inSlope: -3.3801334
+        outSlope: -3.3795774
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.708334
+        value: 10.669381
+        inSlope: -3.0429037
+        outSlope: -3.0423565
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.791668
+        value: 10.425422
+        inSlope: -2.848977
+        outSlope: -2.84977
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.208334
+        value: 9.339705
+        inSlope: -2.412961
+        outSlope: -2.4127855
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: 9.239792
+        inSlope: -2.3849924
+        outSlope: -2.384809
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.291668
+        value: 9.140959
+        inSlope: -2.3602867
+        outSlope: -2.3612504
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.333334
+        value: 9.043094
+        inSlope: -2.3392339
+        outSlope: -2.3389418
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.5
+        value: 8.658824
+        inSlope: -2.2812474
+        outSlope: -2.2814536
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.75
+        value: 8.090568
+        inSlope: -2.2831593
+        outSlope: -2.2834547
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.875
+        value: 7.806054
+        inSlope: -2.246628
+        outSlope: -2.2466419
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.958334
+        value: 5.8006525
+        inSlope: -1.3728082
+        outSlope: -1.3725609
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 5.0122247
+        inSlope: -0.016440295
+        outSlope: -0.01644759
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 26.708334
+        value: 4.9470215
+        inSlope: -0.04258193
+        outSlope: -0.04262607
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 28.75
+        value: 4.967789
+        inSlope: 0.046483334
+        outSlope: 0.0464714
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 5.030416
+        inSlope: 0.051762953
+        outSlope: 0.051762953
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: BirthElements_REF:GEO/BirthElements_REF:Placenta_GEO
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.026947424
+        inSlope: 5.2041704e-16
+        outSlope: 5.2041704e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.0833333
+        value: 0.026947424
+        inSlope: 2.2303547e-16
+        outSlope: 5.2041604e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.125
+        value: 0.026947424
+        inSlope: 2.2303675e-16
+        outSlope: 5.2041307e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6.166667
+        value: 0.026947424
+        inSlope: 2.230342e-16
+        outSlope: 5.2041905e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 8.25
+        value: 0.026947424
+        inSlope: 2.230342e-16
+        outSlope: 5.20425e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.333333
+        value: 0.026947424
+        inSlope: 2.230342e-16
+        outSlope: 5.2041307e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12.416666
+        value: 0.026947424
+        inSlope: 2.2303929e-16
+        outSlope: 5.2041307e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 14.458333
+        value: 0.026947424
+        inSlope: 2.230342e-16
+        outSlope: 5.2041307e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 16.5
+        value: 0.026947424
+        inSlope: 2.2303929e-16
+        outSlope: 5.2040116e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 18.541668
+        value: 0.026947424
+        inSlope: 2.230291e-16
+        outSlope: 5.20425e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 20.625
+        value: 0.026947424
+        inSlope: 2.2303929e-16
+        outSlope: 5.2040116e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 20.958334
+        value: 0.026947424
+        inSlope: 2.2303929e-16
+        outSlope: 5.20425e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.083334
+        value: 0.026947424
+        inSlope: 2.2303929e-16
+        outSlope: 5.20425e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.583334
+        value: 0.026947424
+        inSlope: 2.2303929e-16
+        outSlope: 5.20425e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.708334
+        value: 0.026947424
+        inSlope: 2.2303929e-16
+        outSlope: -0.000000851058
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.791668
+        value: 0.028205432
+        inSlope: 0.058758214
+        outSlope: 0.058788005
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.208334
+        value: 0.13825576
+        inSlope: 0.38683847
+        outSlope: 0.38677618
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: 0.1545456
+        inSlope: 0.39275205
+        outSlope: 0.3927626
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.291668
+        value: 0.17098586
+        inSlope: 0.3939223
+        outSlope: 0.39406046
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.333334
+        value: 0.18737218
+        inSlope: 0.39031383
+        outSlope: 0.39024884
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.5
+        value: 0.24833022
+        inSlope: 0.32668385
+        outSlope: 0.32669577
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.75
+        value: 0.3036935
+        inSlope: 0.08538508
+        outSlope: 0.08538904
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.875
+        value: 0.30478486
+        inSlope: -0.0593285
+        outSlope: -0.059336033
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.958334
+        value: -0.1543238
+        inSlope: -0.59831566
+        outSlope: -0.59821844
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0.5811444
+        inSlope: -0.011780853
+        outSlope: -0.011786096
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 26.708334
+        value: -0.63082963
+        inSlope: -0.03250941
+        outSlope: -0.032504845
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 28.75
+        value: -0.6340071
+        inSlope: 0.011474102
+        outSlope: 0.01147562
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: -0.61854476
+        inSlope: 0.0127944155
+        outSlope: 0.0127944155
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: BirthElements_REF:GEO/BirthElements_REF:Placenta_GEO
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: -0.70645404
+        inSlope: -1.11018914e-14
+        outSlope: -1.11018914e-14
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.000002
+        value: -0.70645404
+        inSlope: -4.757954e-15
+        outSlope: -1.11024e-14
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: -0.70645404
+        inSlope: -4.7581716e-15
+        outSlope: -0.000002997819
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: -0.5355494
+        inSlope: 0.039248038
+        outSlope: 0.039234594
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0.5313231
+        inSlope: -0.000002997819
+        outSlope: -0.000002997819
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: BirthElements_REF:Placenta_CTRL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 15.007526
+        inSlope: -3.5467892
+        outSlope: -3.5467892
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.000002
+        value: 11.661858
+        inSlope: -2.593604
+        outSlope: -2.593604
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 9.797261
+        inSlope: -2.2929294
+        outSlope: -2.2929294
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 6.5654335
+        inSlope: -0.36719522
+        outSlope: -0.36719522
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 6.5266476
+        inSlope: 0.00001798839
+        outSlope: 0.00001798839
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: BirthElements_REF:Placenta_CTRL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: -0.013185822
+        inSlope: -8.673353e-17
+        outSlope: -8.673353e-17
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.000002
+        value: -0.013185822
+        inSlope: -3.7171515e-17
+        outSlope: -8.67375e-17
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: -0.013185822
+        inSlope: -3.7173215e-17
+        outSlope: -0.0000057907964
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: -0.9002114
+        inSlope: -0.20371078
+        outSlope: -0.20368741
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0.9221469
+        inSlope: -0.0000067412925
+        outSlope: -0.0000067412925
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: BirthElements_REF:Placenta_CTRL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 13.979743
+        inSlope: 2.664454e-13
+        outSlope: 2.664454e-13
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: 13.979743
+        inSlope: 1.1419611e-13
+        outSlope: -0.00015147874
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.583334
+        value: 13.281472
+        inSlope: -0.00012859715
+        outSlope: -0.00009156731
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 13.47658
+        inSlope: 2.1174974
+        outSlope: 2.1189077
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.208334
+        value: 14.671743
+        inSlope: 3.819445
+        outSlope: 3.818663
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.583334
+        value: 16.332273
+        inSlope: 4.7468476
+        outSlope: 4.746506
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.166668
+        value: 19.209131
+        inSlope: 3.471375
+        outSlope: 3.4726608
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 21.345036
+        inSlope: 0.114693314
+        outSlope: 0.11502249
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.083334
+        value: 21.515219
+        inSlope: 0.05552975
+        outSlope: 0.05501061
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.125002
+        value: 21.585659
+        inSlope: 0.01736833
+        outSlope: 0.017419262
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 21.595903
+        inSlope: 0.007830057
+        outSlope: 0.008117427
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr01/BirthElements_REF:ctrl01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: -0.47024405
+        inSlope: -5.5509457e-15
+        outSlope: -5.5509457e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: -0.47024405
+        inSlope: -2.3790858e-15
+        outSlope: 0.00000020100977
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.583334
+        value: -0.13705094
+        inSlope: 0.6325411
+        outSlope: 0.63247585
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 0.18847676
+        inSlope: 1.3876156
+        outSlope: 1.3883812
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.208334
+        value: 0.75160456
+        inSlope: 2.0043302
+        outSlope: 2.004012
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.583334
+        value: 1.599789
+        inSlope: 1.8888803
+        outSlope: 1.8885211
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.166668
+        value: 2.5471215
+        inSlope: 1.6104395
+        outSlope: 1.6107228
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 3.790899
+        inSlope: -0.000011459081
+        outSlope: -0.000006812012
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.083334
+        value: 3.7563522
+        inSlope: -0.029508764
+        outSlope: -0.02951804
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.125002
+        value: 3.6881626
+        inSlope: -0.03298713
+        outSlope: -0.03294504
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 3.6629293
+        inSlope: -0.026898926
+        outSlope: -0.026872901
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr01/BirthElements_REF:ctrl01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 2.9213583
+        inSlope: 2.2203783e-14
+        outSlope: 2.2203783e-14
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: 2.9213583
+        inSlope: 9.516343e-15
+        outSlope: 0.000045502704
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.583334
+        value: 2.8633459
+        inSlope: -0.17661825
+        outSlope: -0.1766235
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 2.7374008
+        inSlope: -0.47757432
+        outSlope: -0.4778569
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.208334
+        value: 2.5697412
+        inSlope: -0.35953793
+        outSlope: -0.35950294
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.583334
+        value: 2.454021
+        inSlope: -0.20848398
+        outSlope: -0.20842922
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.166668
+        value: 2.3796499
+        inSlope: -0.13117388
+        outSlope: -0.1311698
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 2.272956
+        inSlope: -0.035655968
+        outSlope: -0.03563417
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.083334
+        value: 2.202449
+        inSlope: -0.03232351
+        outSlope: -0.032266445
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.125002
+        value: 2.145618
+        inSlope: -0.022245543
+        outSlope: -0.022277351
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 2.129495
+        inSlope: -0.016220339
+        outSlope: -0.016274907
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr01/BirthElements_REF:ctrl01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 11.631848
+        inSlope: -0.00013623374
+        outSlope: -0.00013623374
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: 11.492791
+        inSlope: -0.00013623996
+        outSlope: -0.000062123654
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 11.980453
+        inSlope: 2.7004662
+        outSlope: 2.7018123
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 20.60639
+        inSlope: 1.5393909
+        outSlope: 1.5390218
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 20.771257
+        inSlope: -0.00019620718
+        outSlope: -0.00019620718
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr02/BirthElements_REF:ctrl02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: -1.0069194
+        inSlope: 0.000009120346
+        outSlope: 0.000009120346
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: 0.3430833
+        inSlope: 1.3570513
+        outSlope: 1.3571122
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 1.424505
+        inSlope: 1.2702289
+        outSlope: 1.270938
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 3.852589
+        inSlope: 0.34988195
+        outSlope: 0.34978557
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 3.8898451
+        inSlope: 0.000004355297
+        outSlope: 0.000004355297
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr02/BirthElements_REF:ctrl02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 2.0148504
+        inSlope: -0.000004365029
+        outSlope: -0.000004365029
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: 2.6021423
+        inSlope: -0.000010087361
+        outSlope: 0.000010628667
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 2.4752996
+        inSlope: -0.44663206
+        outSlope: -0.4469217
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 1.3741847
+        inSlope: -0.17980398
+        outSlope: -0.17979288
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1.3549682
+        inSlope: 0.0000025908787
+        outSlope: 0.0000025908787
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr02/BirthElements_REF:ctrl02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 8.754219
+        inSlope: 0.000014170763
+        outSlope: 0.000014170763
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.208334
+        value: 8.735863
+        inSlope: -0.16522358
+        outSlope: -0.16513972
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.250002
+        value: 8.728447
+        inSlope: -0.19009797
+        outSlope: -0.19045
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: 8.506407
+        inSlope: 0.000014171413
+        outSlope: 0.00008491982
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 11.082719
+        inSlope: 4.046136
+        outSlope: 4.0482287
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 19.664015
+        inSlope: 1.3090364
+        outSlope: 1.3085493
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.416668
+        value: 19.799824
+        inSlope: -0.019786589
+        outSlope: -0.02008523
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.458334
+        value: 19.678858
+        inSlope: -0.08707233
+        outSlope: -0.08656482
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.500002
+        value: 19.493301
+        inSlope: -0.08287666
+        outSlope: -0.08329245
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 19.45743
+        inSlope: -0.07258934
+        outSlope: -0.072786555
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr03/BirthElements_REF:ctrl01
+      1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: -0.099196926
+        inSlope: 0.0000052089977
+        outSlope: 0.0000052089977
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.208334
+        value: -0.016201193
+        inSlope: 0.74715096
+        outSlope: 0.7470476
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.250002
+        value: 0.017330175
+        inSlope: 0.86059076
+        outSlope: 0.8605991
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: 1.0212455
+        inSlope: 0.000009253899
+        outSlope: -0.000014131123
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 0.25697976
+        inSlope: 0.000007803071
+        outSlope: 0.000024511355
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 4.2975473
+        inSlope: 0.9280372
+        outSlope: 0.9277626
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.416668
+        value: 4.393542
+        inSlope: -0.02047924
+        outSlope: -0.020653084
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.458334
+        value: 4.2690005
+        inSlope: -0.08936336
+        outSlope: -0.08942139
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.500002
+        value: 4.0779576
+        inSlope: -0.08565749
+        outSlope: -0.08569574
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 4.0410256
+        inSlope: -0.074854754
+        outSlope: -0.07490582
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr03/BirthElements_REF:ctrl01
+      1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 0.7324382
+        inSlope: 0.00000094169513
+        outSlope: 0.00000094169513
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.208334
+        value: 0.8268328
+        inSlope: 0.84975827
+        outSlope: 0.8496427
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.250002
+        value: 0.86496943
+        inSlope: 0.9787799
+        outSlope: 0.97878027
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: 2.006765
+        inSlope: -0.000029712548
+        outSlope: -0.000027304863
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 0.4017279
+        inSlope: 0.000019833356
+        outSlope: 0.0000045288657
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 0.7887744
+        inSlope: 0.08889414
+        outSlope: 0.08886392
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.416668
+        value: 0.7935133
+        inSlope: -0.025253883
+        outSlope: -0.025278814
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.458334
+        value: 0.6402213
+        inSlope: -0.11003538
+        outSlope: -0.11002551
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.500002
+        value: 0.40507564
+        inSlope: -0.10546341
+        outSlope: -0.10546476
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 0.35961768
+        inSlope: -0.09218437
+        outSlope: -0.092170954
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr03/BirthElements_REF:ctrl01
+      1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 8.864953
+        inSlope: 0.0000010944535
+        outSlope: 0.0000010944535
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 7.868472
+        inSlope: -0.00003977788
+        outSlope: 0.00006264647
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 16.072744
+        inSlope: 1.8840028
+        outSlope: 1.883703
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 16.27563
+        inSlope: -0.00029866537
+        outSlope: -0.00029866537
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr04/BirthElements_REF:ctrl04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 0.43148562
+        inSlope: 0.0000036439792
+        outSlope: 0.0000036439792
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 1.130008
+        inSlope: 1.06324
+        outSlope: 1.0638397
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 4.6613293
+        inSlope: 0.6370526
+        outSlope: 0.63702184
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 4.7295814
+        inSlope: -0.00002671147
+        outSlope: -0.00002671147
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr04/BirthElements_REF:ctrl04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 0.509703
+        inSlope: 0.0000095939995
+        outSlope: 0.0000095939995
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 2.8136752
+        inSlope: -0.000024533998
+        outSlope: -0.0000013611773
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 2.4002793
+        inSlope: -0.09493535
+        outSlope: -0.09487406
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 2.3900564
+        inSlope: -0.0000013611773
+        outSlope: -0.0000013611773
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr04/BirthElements_REF:ctrl04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 6.092855
+        inSlope: -0.000013613049
+        outSlope: -0.000013613049
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: 5.5877852
+        inSlope: -0.40231767
+        outSlope: -0.4022911
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 5.372194
+        inSlope: -0.000026157282
+        outSlope: 0.00006264647
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.791668
+        value: 8.878063
+        inSlope: 5.5348606
+        outSlope: 5.5371113
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.875002
+        value: 9.342355
+        inSlope: 5.597842
+        outSlope: 5.597755
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 13.779352
+        inSlope: -0.0000032943046
+        outSlope: -0.00005122567
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.083334
+        value: 13.07977
+        inSlope: -0.5977176
+        outSlope: -0.5974537
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.125002
+        value: 11.698918
+        inSlope: -0.6676867
+        outSlope: -0.66730857
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 11.187937
+        inSlope: -0.5444952
+        outSlope: -0.54426324
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr05/BirthElements_REF:ctrl05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 0.08930892
+        inSlope: -0.000011192665
+        outSlope: -0.000011192665
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: -0.958443
+        inSlope: -0.9142826
+        outSlope: -0.9143087
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: -1.5487865
+        inSlope: -0.000016208996
+        outSlope: 0.000016610938
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.791668
+        value: -0.047728267
+        inSlope: 2.3698318
+        outSlope: 2.3707278
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.875002
+        value: 0.15106086
+        inSlope: 2.396682
+        outSlope: 2.3966944
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 2.050787
+        inSlope: 0.000010888804
+        outSlope: -0.000014441562
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.083334
+        value: 2.0428813
+        inSlope: -0.0067403996
+        outSlope: -0.006778237
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.125002
+        value: 2.0272765
+        inSlope: -0.0075438777
+        outSlope: -0.0075382283
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 2.021502
+        inSlope: -0.006149385
+        outSlope: -0.006173353
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr05/BirthElements_REF:ctrl05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 0.6956564
+        inSlope: 0.000023252553
+        outSlope: 0.000023252553
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: 2.3900702
+        inSlope: -0.0000049483247
+        outSlope: -0.0000027192725
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 1.8903377
+        inSlope: -0.280424
+        outSlope: -0.2806184
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.791668
+        value: 1.6526698
+        inSlope: -0.19627242
+        outSlope: -0.19633004
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.875002
+        value: 1.6365871
+        inSlope: -0.18969826
+        outSlope: -0.18968582
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1.4667189
+        inSlope: -0.103486806
+        outSlope: -0.1035473
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.083334
+        value: 1.2531316
+        inSlope: -0.10137834
+        outSlope: -0.101357624
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.125002
+        value: 1.0706037
+        inSlope: -0.07308722
+        outSlope: -0.073138386
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 1.0173072
+        inSlope: -0.054098267
+        outSlope: -0.05409538
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr05/BirthElements_REF:ctrl05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 3.8453085
+        inSlope: 6.661135e-14
+        outSlope: 6.661135e-14
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: 3.8453085
+        inSlope: 2.854903e-14
+        outSlope: -0.000040586372
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 2.9781525
+        inSlope: -0.000029143963
+        outSlope: 0.00005393224
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 9.4383
+        inSlope: 1.4836094
+        outSlope: 1.4834533
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 9.598055
+        inSlope: 0.000014149792
+        outSlope: 0.00002833858
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.083334
+        value: 9.333456
+        inSlope: -0.22590433
+        outSlope: -0.2260008
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.125002
+        value: 8.811184
+        inSlope: -0.2523138
+        outSlope: -0.25247684
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 8.617918
+        inSlope: -0.20588124
+        outSlope: -0.20585111
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr06/BirthElements_REF:ctrl06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 1.5150803
+        inSlope: 3.3305674e-14
+        outSlope: 3.3305674e-14
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: 1.5150803
+        inSlope: 1.4274514e-14
+        outSlope: -0.0000039685433
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 2.832325
+        inSlope: 0.0000016171697
+        outSlope: -0.00002097947
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 2.2685513
+        inSlope: -0.12948695
+        outSlope: -0.12942027
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 2.2546098
+        inSlope: -0.00002097947
+        outSlope: -0.0000138967935
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.083334
+        value: 2.3778589
+        inSlope: 0.10526626
+        outSlope: 0.105251625
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.125002
+        value: 2.6211302
+        inSlope: 0.11758253
+        outSlope: 0.11763914
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 2.7111523
+        inSlope: 0.09590757
+        outSlope: 0.09590863
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr06/BirthElements_REF:ctrl06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 2.6462414
+        inSlope: 2.2203783e-14
+        outSlope: 2.2203783e-14
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: 2.6462414
+        inSlope: 9.516343e-15
+        outSlope: 0.00002833782
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 2.3263438
+        inSlope: -0.72905225
+        outSlope: -0.7295117
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 0.28344896
+        inSlope: -0.3499291
+        outSlope: -0.3498551
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 0.24600896
+        inSlope: 0.000004074687
+        outSlope: 0.00000051077865
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.083334
+        value: 0.33049494
+        inSlope: 0.072166614
+        outSlope: 0.07215653
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.125002
+        value: 0.49725536
+        inSlope: 0.0806062
+        outSlope: 0.080610335
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 0.5589648
+        inSlope: 0.06575432
+        outSlope: 0.065741636
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr06/BirthElements_REF:ctrl06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 2.1214745
+        inSlope: 1.11018914e-14
+        outSlope: 1.11018914e-14
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: 2.1214745
+        inSlope: 4.7581716e-15
+        outSlope: 0.000007102537
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 0.76053077
+        inSlope: 0.0000066260154
+        outSlope: 0.000035813988
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.25
+        value: 4.2145295
+        inSlope: 1.9162527
+        outSlope: 1.9162211
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.500002
+        value: 4.6413636
+        inSlope: 1.473519
+        outSlope: 1.4736049
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 5.0721545
+        inSlope: -0.00006158936
+        outSlope: 0.00004741251
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.083334
+        value: 4.7035947
+        inSlope: -0.31481647
+        outSlope: -0.31474212
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.125002
+        value: 3.9761224
+        inSlope: -0.35168958
+        outSlope: -0.3516095
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 3.7069228
+        inSlope: -0.28686494
+        outSlope: -0.2868273
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr07/BirthElements_REF:ctrl07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 0.32638305
+        inSlope: 5.5509457e-15
+        outSlope: 5.5509457e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: 0.32638305
+        inSlope: 2.3790858e-15
+        outSlope: -0.0000030653034
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 0.43590066
+        inSlope: 0.31534603
+        outSlope: 0.3155424
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.25
+        value: 2.7710996
+        inSlope: 1.8307638
+        outSlope: 1.8312119
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.500002
+        value: 3.1856737
+        inSlope: 1.4546695
+        outSlope: 1.4547173
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 3.6190703
+        inSlope: 0.000018792702
+        outSlope: -0.00000354222
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.083334
+        value: 3.5833607
+        inSlope: -0.03048507
+        outSlope: -0.030472774
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.125002
+        value: 3.5128763
+        inSlope: -0.03408355
+        outSlope: -0.034035787
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 3.4867938
+        inSlope: -0.02778722
+        outSlope: -0.027812105
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr07/BirthElements_REF:ctrl07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 2.8581765
+        inSlope: 0.000030206224
+        outSlope: 0.000030206224
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: 4.3319006
+        inSlope: -0.00005616936
+        outSlope: -0.000013623477
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 4.1461787
+        inSlope: -0.53474855
+        outSlope: -0.53508586
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.25
+        value: 0.35176116
+        inSlope: -2.9639328
+        outSlope: -2.9646187
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.500002
+        value: -0.3192672
+        inSlope: -2.3540792
+        outSlope: -2.3540514
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -1.0204453
+        inSlope: 0.0000139105105
+        outSlope: -0.0000032699284
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.083334
+        value: -0.9277763
+        inSlope: 0.079163246
+        outSlope: 0.0791319
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.125002
+        value: -0.7448639
+        inSlope: 0.088412024
+        outSlope: 0.0884062
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: -0.67717755
+        inSlope: 0.07213109
+        outSlope: 0.07211791
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr07/BirthElements_REF:ctrl07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 0.434724
+        inSlope: 5.5509457e-15
+        outSlope: 5.5509457e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: 0.434724
+        inSlope: 2.3790858e-15
+        outSlope: 5.5509457e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: 0.434724
+        inSlope: 2.3790858e-15
+        outSlope: 5.5509457e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 0.434724
+        inSlope: 2.3790858e-15
+        outSlope: 0.000012803232
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 1.5883706
+        inSlope: 0.26492423
+        outSlope: 0.26489973
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.416668
+        value: 1.6170603
+        inSlope: 0.001300014
+        outSlope: 0.0012733106
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.416668
+        value: 1.657841
+        inSlope: 0.056077328
+        outSlope: 0.056090523
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.458334
+        value: 1.9755478
+        inSlope: 0.20278515
+        outSlope: 0.20274018
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 2.074688
+        inSlope: 0.19076173
+        outSlope: 0.19071157
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr08/BirthElements_REF:ctrl08
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 1.8138049
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: 1.8138049
+        inSlope: -0
+        outSlope: 0.0000020284979
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: 2.338646
+        inSlope: 1.6052039
+        outSlope: 1.6056272
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 2.9304523
+        inSlope: -0.000019088804
+        outSlope: -0.000014167254
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 2.3152976
+        inSlope: -0.14129308
+        outSlope: -0.14126699
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.416668
+        value: 2.2779922
+        inSlope: -0.11075378
+        outSlope: -0.11079983
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.416668
+        value: 1.9807539
+        inSlope: 9.515908e-15
+        outSlope: 2.22048e-14
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.458334
+        value: 1.9807539
+        inSlope: 9.516343e-15
+        outSlope: 2.2203783e-14
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 1.9807539
+        inSlope: 9.516343e-15
+        outSlope: 2.2203783e-14
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr08/BirthElements_REF:ctrl08
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 1.6713638
+        inSlope: 0.000027345288
+        outSlope: 0.000027345288
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: 3.1450877
+        inSlope: 0.00003919953
+        outSlope: -0.000004904406
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: 3.100666
+        inSlope: -0.26654947
+        outSlope: -0.2666156
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 0.092141494
+        inSlope: 0.000044176075
+        outSlope: 0.000001540862
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 0.21511891
+        inSlope: 0.028242044
+        outSlope: 0.028238555
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.416668
+        value: 0.22371376
+        inSlope: 0.027839247
+        outSlope: 0.027851934
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.416668
+        value: 0.29843295
+        inSlope: 1.1894885e-15
+        outSlope: 2.7756e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.458334
+        value: 0.29843295
+        inSlope: 1.1895429e-15
+        outSlope: 2.7754729e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 0.29843295
+        inSlope: 1.1895429e-15
+        outSlope: 2.7754729e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr08/BirthElements_REF:ctrl08
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 0.24591601
+        inSlope: 2.7754729e-15
+        outSlope: 2.7754729e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: 0.24591601
+        inSlope: 1.1895429e-15
+        outSlope: 2.7754729e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: 0.24591601
+        inSlope: 1.1895429e-15
+        outSlope: 2.7754729e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 0.24591601
+        inSlope: 1.1895429e-15
+        outSlope: 0.0000062978042
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 1.3685482
+        inSlope: 0.25782415
+        outSlope: 0.2577681
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1.3963101
+        inSlope: 0.00000067785203
+        outSlope: -0.0000012252893
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 26.041668
+        value: 1.2682742
+        inSlope: -0.20483981
+        outSlope: -0.20489703
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.375
+        value: 1.0710045
+        inSlope: -0.0000012252893
+        outSlope: -0.000007765886
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.416668
+        value: 1.3540294
+        inSlope: 0.21375625
+        outSlope: 0.21380597
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 1.4690747
+        inSlope: 0.20660046
+        outSlope: 0.2065711
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr09/BirthElements_REF:ctrl09
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 0.4163108
+        inSlope: 8.3264186e-15
+        outSlope: 8.3264186e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: 0.4163108
+        inSlope: 3.5686286e-15
+        outSlope: 0.000002778326
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: 0.9267036
+        inSlope: 1.5741137
+        outSlope: 1.5744443
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: 1.5329583
+        inSlope: 0.1157387
+        outSlope: 0.11582032
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: 1.619719
+        inSlope: 0.001000147
+        outSlope: 0.0009975127
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1.6197879
+        inSlope: -0.0000061308588
+        outSlope: -0.00000885501
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 26.041668
+        value: 1.5222241
+        inSlope: -0.15608996
+        outSlope: -0.15612784
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.375
+        value: 1.3719038
+        inSlope: -0.00000885501
+        outSlope: 0.000008037747
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.416668
+        value: 1.441782
+        inSlope: 0.052776452
+        outSlope: 0.052784763
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 1.4701866
+        inSlope: 0.051034063
+        outSlope: 0.051000804
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr09/BirthElements_REF:ctrl09
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21
+        value: 1.4274148
+        inSlope: 0.000027345288
+        outSlope: 0.000027345288
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.75
+        value: 2.9011388
+        inSlope: 0.00003919953
+        outSlope: -0.000004904406
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.25
+        value: 2.856717
+        inSlope: -0.26654947
+        outSlope: -0.2666156
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.791668
+        value: -0.15180765
+        inSlope: 0.000041791853
+        outSlope: 0.0000014131067
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.833334
+        value: -0.019104613
+        inSlope: 0.030476406
+        outSlope: 0.03047104
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0.015822962
+        inSlope: 0.0000000272775
+        outSlope: 0.0000007299331
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 26.041668
+        value: 0.018269975
+        inSlope: 0.054542925
+        outSlope: 0.05456364
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 27.375
+        value: 0.07079826
+        inSlope: 0.0000010130595
+        outSlope: 1.0408023e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.416668
+        value: 0.07079826
+        inSlope: 4.4607857e-16
+        outSlope: 1.04085e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 0.07079826
+        inSlope: 4.4607857e-16
+        outSlope: 1.0408023e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr09/BirthElements_REF:ctrl09
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 22.791668
+        value: 0.99999964
+        inSlope: -0.4525206
+        outSlope: -0.4525206
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.791668
+        value: 0.02331951
+        inSlope: -0.18091717
+        outSlope: -0.18091717
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.000002
+        value: 0.0006794795
+        inSlope: -0.032311536
+        outSlope: -0.032311536
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1e-12
+        inSlope: -0.016307756
+        outSlope: -0.016307756
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: BirthElements_REF:GEO/BirthElements_REF:Placenta_GEO
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 22.791668
+        value: 0.99999964
+        inSlope: -0.4525206
+        outSlope: -0.4525206
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.791668
+        value: 0.02331951
+        inSlope: -0.18091717
+        outSlope: -0.18091717
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.000002
+        value: 0.0006794795
+        inSlope: -0.032311536
+        outSlope: -0.032311536
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1e-12
+        inSlope: -0.016307756
+        outSlope: -0.016307756
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: BirthElements_REF:GEO/BirthElements_REF:Placenta_GEO
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 22.791668
+        value: 0.99999964
+        inSlope: -0.4525206
+        outSlope: -0.4525206
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.791668
+        value: 0.02331951
+        inSlope: -0.18091717
+        outSlope: -0.18091717
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.000002
+        value: 0.0006794795
+        inSlope: -0.032311536
+        outSlope: -0.032311536
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1e-12
+        inSlope: -0.016307756
+        outSlope: -0.016307756
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: BirthElements_REF:GEO/BirthElements_REF:Placenta_GEO
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.083334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: BirthElements_REF:Placenta_CTRL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.083334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: BirthElements_REF:Placenta_CTRL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 25.041668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.083334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: BirthElements_REF:Placenta_CTRL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 22.791668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.833334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr01/BirthElements_REF:ctrl01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 22.791668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.833334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr01/BirthElements_REF:ctrl01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 22.791668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.833334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr01/BirthElements_REF:ctrl01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 22.791668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.833334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr02/BirthElements_REF:ctrl02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 22.791668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.833334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr02/BirthElements_REF:ctrl02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 22.791668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 22.833334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr02/BirthElements_REF:ctrl02
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -31.797129
+        inSlope: -0.0000005730004
+        outSlope: -0.0000005730004
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: -31.797129
+        inSlope: -0.0000005730004
+        outSlope: -0.0000005730004
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: BirthElements_REF:GEO/BirthElements_REF:Placenta_GEO
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 3.8962667
+        inSlope: 0.00000040587528
+        outSlope: 0.00000040587528
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 3.8962667
+        inSlope: 0.00000040587528
+        outSlope: 0.00000040587528
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: BirthElements_REF:GEO/BirthElements_REF:Placenta_GEO
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 172.63489
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: 172.63489
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: BirthElements_REF:GEO/BirthElements_REF:Placenta_GEO
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: BirthElements_REF:Placenta_CTRL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: BirthElements_REF:Placenta_CTRL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: BirthElements_REF:Placenta_CTRL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr01/BirthElements_REF:ctrl01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr01/BirthElements_REF:ctrl01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr01/BirthElements_REF:ctrl01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr02/BirthElements_REF:ctrl02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr02/BirthElements_REF:ctrl02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr02/BirthElements_REF:ctrl02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr03/BirthElements_REF:ctrl01
+      1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr03/BirthElements_REF:ctrl01
+      1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr03/BirthElements_REF:ctrl01
+      1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr04/BirthElements_REF:ctrl04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr04/BirthElements_REF:ctrl04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr04/BirthElements_REF:ctrl04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr05/BirthElements_REF:ctrl05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr05/BirthElements_REF:ctrl05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr05/BirthElements_REF:ctrl05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr06/BirthElements_REF:ctrl06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr06/BirthElements_REF:ctrl06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr06/BirthElements_REF:ctrl06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr07/BirthElements_REF:ctrl07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr07/BirthElements_REF:ctrl07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 25.041668
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr07/BirthElements_REF:ctrl07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr08/BirthElements_REF:ctrl08
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr08/BirthElements_REF:ctrl08
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr08/BirthElements_REF:ctrl08
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr09/BirthElements_REF:ctrl09
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr09/BirthElements_REF:ctrl09
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 21.000002
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 29.958334
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: BirthElements_REF:Placenta_CTRL/BirthElements_REF:Umbilical_CTRL/BirthElements_REF:ctrlMtr09/BirthElements_REF:ctrl09
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_IsEmpty: 0
+  m_Events: []

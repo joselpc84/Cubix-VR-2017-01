@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 001CubeAnim
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 19.541668
+        value: 0.00015258597
+        inSlope: 240
+        outSlope: 240
+        tangentMode: -2147483648
+      - serializedVersion: 2
+        time: 19.625
+        value: 50.20927
+        inSlope: 421.2593
+        outSlope: 421.2593
+        tangentMode: 1074986466
+      - serializedVersion: 2
+        time: 19.666666
+        value: 60.209118
+        inSlope: 120
+        outSlope: 120
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 19.708334
+        value: 60.209118
+        inSlope: Infinity
+        outSlope: 0
+        tangentMode: -1072664377
+      - serializedVersion: 2
+        time: 21.75
+        value: 60.209118
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1073741824
+      - serializedVersion: 2
+        time: 21.791666
+        value: 60.209118
+        inSlope: -57.14282
+        outSlope: -57.14282
+        tangentMode: 1073481901
+      - serializedVersion: 2
+        time: 21.833334
+        value: 55.44707
+        inSlope: -114.28569
+        outSlope: -114.28569
+        tangentMode: -1070071808
+      - serializedVersion: 2
+        time: 22.958334
+        value: 0
+        inSlope: -114.28572
+        outSlope: -114.28572
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: blendShape.blendShape1.Cubic_Cube_topOpen
+    path: Cubic_Cube_Morph
+    classID: 137
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 24
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 263025346
+      attribute: 3276824058
+      script: {fileID: 0}
+      classID: 137
+      customType: 20
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 22.958334
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 19.541668
+        value: 0.00015258597
+        inSlope: 240
+        outSlope: 240
+        tangentMode: -2147483648
+      - serializedVersion: 2
+        time: 19.625
+        value: 50.20927
+        inSlope: 421.2593
+        outSlope: 421.2593
+        tangentMode: 1074986466
+      - serializedVersion: 2
+        time: 19.666666
+        value: 60.209118
+        inSlope: 120
+        outSlope: 120
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 19.708334
+        value: 60.209118
+        inSlope: Infinity
+        outSlope: 0
+        tangentMode: -1072664377
+      - serializedVersion: 2
+        time: 21.75
+        value: 60.209118
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1073741824
+      - serializedVersion: 2
+        time: 21.791666
+        value: 60.209118
+        inSlope: -57.14282
+        outSlope: -57.14282
+        tangentMode: 1073481901
+      - serializedVersion: 2
+        time: 21.833334
+        value: 55.44707
+        inSlope: -114.28569
+        outSlope: -114.28569
+        tangentMode: -1070071808
+      - serializedVersion: 2
+        time: 22.958334
+        value: 0
+        inSlope: -114.28572
+        outSlope: -114.28572
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: blendShape.blendShape1.Cubic_Cube_topOpen
+    path: Cubic_Cube_Morph
+    classID: 137
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_IsEmpty: 0
+  m_Events: []
