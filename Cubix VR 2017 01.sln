@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubix VR 2017 01", "Assembly-CSharp-firstpass.csproj", "{97C54140-EEE0-34DF-C956-2F13E1D31C16}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubix VR 2017 01", "Assembly-CSharp.csproj", "{0815A776-A370-8ED9-39F0-B08483091C27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubix VR 2017 01", "Assembly-CSharp-Editor.csproj", "{EE88BE45-3EE3-94C0-64E5-A93FCDEBD103}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +13,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C54140-EEE0-34DF-C956-2F13E1D31C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C54140-EEE0-34DF-C956-2F13E1D31C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C54140-EEE0-34DF-C956-2F13E1D31C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C54140-EEE0-34DF-C956-2F13E1D31C16}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0815A776-A370-8ED9-39F0-B08483091C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0815A776-A370-8ED9-39F0-B08483091C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0815A776-A370-8ED9-39F0-B08483091C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0815A776-A370-8ED9-39F0-B08483091C27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE88BE45-3EE3-94C0-64E5-A93FCDEBD103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE88BE45-3EE3-94C0-64E5-A93FCDEBD103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE88BE45-3EE3-94C0-64E5-A93FCDEBD103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE88BE45-3EE3-94C0-64E5-A93FCDEBD103}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
